@@ -2,11 +2,12 @@
 
 Projeto desenvolvido para a disciplina de IoT com foco em monitoramento preventivo da saúde de pets utilizando sensores, ESP32, MQTT e dashboard em tempo real.
 
-Larissa Juvenal de Magalhães RM566457 
-Matheus Gianolli RM565258 
-Júlia Kauane Menezes Farias RM565568 
-Gustavo Ribeiro Permagnani RM564995 
+Larissa Juvenal de Magalhães RM566457
+Matheus Gianolli RM565258
+Júlia Kauane Menezes Farias RM565568
+Gustavo Ribeiro Permagnani RM564995
 Enzo Xavier Coelho RM563379
+
 ---
 
 # 📌 Sobre o Projeto
