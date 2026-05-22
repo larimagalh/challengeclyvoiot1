@@ -1,0 +1,22 @@
+[
+    {
+        "id": "0c5d44b4ea8a63ce",
+        "type": "json",
+        "z": "341a61bfbcc4f778",
+        "name": "",
+        "property": "payload",
+        "action": "obj",
+        "pretty": false,
+        "x": 290,
+        "y": 160,
+        "wires": [
+            [
+                "2b92778c56152439",
+                "064a82dd7b190513",
+                "bb4b7a3b9144d1d5",
+                "5d36b3498f0bc2e9",
+                "c110e3b79aa22b9e"
+            ]
+        ]
+    }
+]
